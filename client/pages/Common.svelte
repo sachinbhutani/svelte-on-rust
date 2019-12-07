@@ -11,9 +11,10 @@
     }
 </script>
 <h1> Common Route on client and server </h1>
-<h3> Data recieved from server </h3>
-<p> App : {contents.app} </p>
-<p> Version : {contents.version} </p>
-<p> Status: {contents.status}</p>
-
+<h3> Data recieved from server on mount: </h3>
+<ul>
+    <li> App : {contents.app} </li>
+    <li> Version : {contents.version} </li>
+    <li> Status: {contents.status}</li>
+</ul>
 
