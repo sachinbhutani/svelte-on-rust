@@ -1,7 +1,7 @@
 
 # Svelte-on-Rust
 
-Starter template for [Svelte](https://svelte.dev) apps with Rust [Rocket](https://rocket.rs)) Server . 
+Starter template for [Svelte](https://svelte.dev) apps with Rust [Rocket](https://rocket.rs) Server . 
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
@@ -44,6 +44,6 @@ cargo build
 ```
 
 ## Built With
-    [Rocket](https://rocket.rs/)
-    [Svelte](https://svelte.dev/)
-    [YRV](https://github.com/pateketrueke/yrv) 
+[Rocket](https://rocket.rs/)
+[Svelte](https://svelte.dev/)
+[YRV](https://github.com/pateketrueke/yrv) 
