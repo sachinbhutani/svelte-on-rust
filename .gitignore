@@ -2,4 +2,3 @@
 node_modules
 public/build
 target
-Cargo.lock
