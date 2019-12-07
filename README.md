@@ -42,3 +42,8 @@ To create an optimised version of the app:
 npm run build
 cargo build
 ```
+
+## Built With
+    [Rocket](https://rocket.rs/)
+    [Svelte](https://svelte.dev/)
+    [YRV](https://github.com/pateketrueke/yrv) 
