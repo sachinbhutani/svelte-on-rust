@@ -7,11 +7,11 @@ To create a new project based on this template using [degit](https://github.com/
 
 ## Requirements
 
-    NodeJs - [Install](https://nodejs.org/en/download/)
+NodeJs - [Install](https://nodejs.org/en/download/)
 
-    Rust  - [Install](https://www.rust-lang.org/tools/install) 
+Rust  - [Install](https://www.rust-lang.org/tools/install) 
 
-    Rust Nightly for the project folder
+Rust Nightly for the project folder
 
 
 ## Get started
