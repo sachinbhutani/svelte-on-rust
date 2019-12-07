@@ -5,9 +5,12 @@ Starter template for [Svelte](https://svelte.dev) apps with Rust [Rocket](https:
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
-*Requirements*
+## Requirements
+
     NodeJs - [Install](https://nodejs.org/en/download/)
+
     Rust  - [Install](https://www.rust-lang.org/tools/install) 
+
     Rust Nightly for the project folder
 
 
@@ -24,6 +27,7 @@ npm install
 
 
 ...then start Rocket server and [Rollup](https://rollupjs.org) in two different terminals 
+
 Terminal 1: 
 ```bash
 cargo run  
@@ -49,6 +53,8 @@ cargo build
 ```
 
 ## Built With
-[Rocket](https://rocket.rs/)
+[Rocket](https://rocket.rs/) 
+
 [Svelte](https://svelte.dev/)
+
 [YRV](https://github.com/pateketrueke/yrv) 
