@@ -22,10 +22,15 @@ rustup override set nightly
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org):
 
+...then start Rocket server and [Rollup](https://rollupjs.org) in two different terminals 
+Terminal 1: 
 ```bash
-npm run dev
+cargo run  
+```
+Terminal 2:
+```bash
+npm run dev  
 ```
 
 Navigate to [localhost:8000](http://localhost:8000). You should see your app running. 
