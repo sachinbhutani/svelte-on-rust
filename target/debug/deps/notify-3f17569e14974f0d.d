@@ -1,0 +1,12 @@
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/notify-3f17569e14974f0d.rmeta: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs
+
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/libnotify-3f17569e14974f0d.rlib: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs
+
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/notify-3f17569e14974f0d.d: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs
+
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/lib.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/fsevent.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/null.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/poll.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/mod.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.14/src/debounce/timer.rs:

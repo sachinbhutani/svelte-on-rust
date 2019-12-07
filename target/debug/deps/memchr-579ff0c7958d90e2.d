@@ -1,0 +1,13 @@
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/memchr-579ff0c7958d90e2.rmeta: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/libmemchr-579ff0c7958d90e2.rlib: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/memchr-579ff0c7958d90e2.d: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs
+
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/lib.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/fallback.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/iter.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/naive.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/mod.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/avx.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.2.1/src/x86/sse2.rs:

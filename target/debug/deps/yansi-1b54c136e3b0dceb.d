@@ -1,0 +1,13 @@
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/yansi-1b54c136e3b0dceb.rmeta: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs
+
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/libyansi-1b54c136e3b0dceb.rlib: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs
+
+/Users/sachin/sites/rust/svelte-on-rust/target/debug/deps/yansi-1b54c136e3b0dceb.d: /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs /Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs
+
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/lib.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/docify.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/macros.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/windows.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/paint.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/style.rs:
+/Users/sachin/.cargo/registry/src/github.com-1ecc6299db9ec823/yansi-0.5.0/src/color.rs:
