@@ -2,7 +2,7 @@
     import {onMount} from 'svelte';
     import {router} from 'yrv';
 
-    let contents = "";
+    export let contents = "";
     onMount( ()=> getContext())
     async function getContext() {
        let api_path = $router.path.replace('#','/'); 
@@ -10,7 +10,7 @@
        contents = await res.json(); 
     }
 </script>
-<h1> Common Route in component </h1>
+<h1> Common Route on client and server </h1>
 <h3> Data recieved from server </h3>
 <p> App : {contents.app} </p>
 <p> Version : {contents.version} </p>
