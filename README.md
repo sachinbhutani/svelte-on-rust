@@ -28,11 +28,11 @@ npm install
 
 ...then start Rocket server and [Rollup](https://rollupjs.org) in two different terminals 
 
-Terminal 1: 
+Terminal 1: (To build and hot reload svelte components)
 ```bash
 cargo run  
 ```
-Terminal 2:
+Terminal 2: (To run the rust server)
 ```bash
 npm run dev  
 ```
