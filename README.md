@@ -1,7 +1,7 @@
 
 # Svelte-on-Rust
 
-Starter template for [Svelte](https://svelte.dev) apps with Rust [Rocket](https://rocket.rs) Server . 
+Starter template for [Svelte](https://svelte.dev) frontend apps with Rust [Rocket](https://rocket.rs) backend server. 
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
@@ -28,11 +28,11 @@ npm install
 
 ...then start Rocket server and [Rollup](https://rollupjs.org) in two different terminals 
 
-Terminal 1: (To build and hot reload svelte components)
+Terminal 1: (To run the rust server)
 ```bash
 cargo run  
 ```
-Terminal 2: (To run the rust server)
+Terminal 2: (To build and hot reload svelte components)
 ```bash
 npm run dev  
 ```
