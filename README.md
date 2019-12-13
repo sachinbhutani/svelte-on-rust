@@ -3,7 +3,7 @@
 
 Starter template for [Svelte](https://svelte.dev) frontend apps with Rust [Rocket](https://rocket.rs) backend server. 
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+
 
 ## Requirements
 
@@ -15,8 +15,8 @@ Rust Nightly for the project folder
 
 
 ## Get started
-
-Install the dependencies...
+Create a new project based on this template using [degit](https://github.com/Rich-Harris/degit) and 
+install the dependencies...
 
 ```bash
 npx degit sachinbhutani/svelte-on-rust svelte-rocket
@@ -58,3 +58,5 @@ cargo build
 [Svelte](https://svelte.dev/)
 
 [YRV](https://github.com/pateketrueke/yrv) 
+
+[Bulma](https://bulma.io)
