@@ -10,7 +10,7 @@ use rocket_contrib::json::JsonValue;
 // for base route api
 #[get("/")]
 fn api() -> String {
-    format!("Hello, from Rust  \n Hit the back button to conitnue")
+    format!("Hello, from Rust  \n Hit the back button to continue")
 }
 
 #[get("/message", rank = 1)]

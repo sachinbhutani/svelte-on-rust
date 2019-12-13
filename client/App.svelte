@@ -6,6 +6,7 @@
 	import Home from './pages/Home.svelte';
 	import About from './pages/About.svelte';
 	import Common from './pages/Common.svelte';
+	import Catcher from './pages/Catcher.svelte';
 </script>
 
 <main>
@@ -14,7 +15,7 @@
     <Route exact path="/"><Home></Home></Route>
     <Route path="#about"><About></About></Route>
 	<Route path="#app/common" let:router><Common></Common></Route>
-	<Route path="#" let:router>from catcher {router.params.name}!</Route> 
+	<Route path="#:name" let:router><Catcher></Catcher></Route> 
   </Router> 
   <Footer></Footer>
 </main>
