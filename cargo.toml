@@ -1,6 +1,6 @@
 [package]
 name = "svelte-on-rust"
-version = "0.1.0"
+version = "0.1.2"
 authors = ["Sachin Bhutani <sachin1705@gmail.com>"]
 edition = "2018"
 
@@ -8,4 +8,7 @@ edition = "2018"
 
 [dependencies]
 rocket = "0.4.2"
+serde = "1.0"
+serde_json = "1.0"
+serde_derive = "1.0"
 rocket_contrib = "0.4.2"

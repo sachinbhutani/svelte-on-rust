@@ -1,5 +1,7 @@
 <script>
+    import {user} from './store.js';
     import {Link} from 'yrv';
+
     let isActive = false;
     function toggleMenu(){
         isActive = !isActive;
@@ -39,8 +41,32 @@
                     </div>
             </div>
         <Link class="navbar-item" href="#app/common?p1=test&p2=3"> Common Route </Link>
+        {#if $user}<Link class="navbar-item" href="#secure"> Secure Route </Link>{/if}
         <Link class="navbar-item" href="#catch-it"> Catch All </Link>
         </div>
+    </div>
+
+    <div class="navbar-end">
+    {#if !$user}
+        <div class="navbar-item">
+        <div class="buttons">
+          <Link class="button is-light" href="#login">
+            Log in
+          </Link>
+        </div>
+        </div>
+    {:else}
+        <div class="navbar-item">
+            Hi {$user}
+        </div>
+        <div class="navbar-item">
+        <div class="buttons">
+          <Link class="button is-danger" href="#logout">
+            Log Out
+          </Link>
+        </div>
+        </div>
+    {/if}
     </div>
 
 </nav>
