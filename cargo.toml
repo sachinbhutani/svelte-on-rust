@@ -1,6 +1,6 @@
 [package]
 name = "svelte-on-rust"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Sachin Bhutani <sachin1705@gmail.com>"]
 edition = "2018"
 

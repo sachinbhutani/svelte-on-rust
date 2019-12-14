@@ -60,3 +60,7 @@ cargo build
 [YRV](https://github.com/pateketrueke/yrv) 
 
 [Bulma](https://bulma.io)
+
+## Change Log 
+v0.1.3: Added authentication example with private cookies 
+v0.1.2: Added Bulma CSS styling
