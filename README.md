@@ -61,6 +61,10 @@ cargo build
 
 [Bulma](https://bulma.io)
 
-## Change Log 
-v0.1.3: Added authentication example with private cookies 
+## Change Log
+
+v0.1.4: update packages  because `cargo run` failed 
+
+v0.1.3: Added authentication example with private cookies
+
 v0.1.2: Added Bulma CSS styling
