@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\projects\svelte-on-rust\target\debug\build\typenum-3265597039d3d5bf\out\consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=c:\projects\svelte-on-rust\target\debug\build\typenum-3265597039d3d5bf\out\op.rs

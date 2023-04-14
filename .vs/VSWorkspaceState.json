@@ -3,8 +3,9 @@
     "",
     "\\src",
     "\\src\\assets",
-    "\\src\\lib"
+    "\\src\\lib",
+    "\\target"
   ],
-  "SelectedNode": "\\src\\lib\\store.js",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }
