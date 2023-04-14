@@ -63,10 +63,10 @@ cargo build
 ## Change Log
 
 v0.2.0: Complete Rewrite 
- upgraded to rust stable 
- upgraded to new svelte version 
- removed rollup, using vite now 
- removed bulma, pure css only. 
+  + upgraded to rust stable 
+  + upgraded to new svelte version 
+  + removed rollup, using vite now 
+  + removed bulma, pure css only. 
 
 v0.1.4: update packages  because `cargo run` failed 
 
