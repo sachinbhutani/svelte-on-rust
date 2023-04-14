@@ -1,0 +1,10 @@
+c:\projects\svelte-on-rust\target\debug\deps\proc_macro2_diagnostics-f721a90f16c39a20.rmeta: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs
+
+c:\projects\svelte-on-rust\target\debug\deps\libproc_macro2_diagnostics-f721a90f16c39a20.rlib: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs
+
+c:\projects\svelte-on-rust\target\debug\deps\proc_macro2_diagnostics-f721a90f16c39a20.d: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs
+
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\lib.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\ext.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\diagnostic.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-diagnostics-0.10.0\src\line.rs:

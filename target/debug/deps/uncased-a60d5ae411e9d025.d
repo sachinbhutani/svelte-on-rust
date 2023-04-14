@@ -1,0 +1,11 @@
+c:\projects\svelte-on-rust\target\debug\deps\uncased-a60d5ae411e9d025.rmeta: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+c:\projects\svelte-on-rust\target\debug\deps\libuncased-a60d5ae411e9d025.rlib: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+c:\projects\svelte-on-rust\target\debug\deps\uncased-a60d5ae411e9d025.d: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs
+
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\lib.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\serde.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\owned.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\borrowed.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\uncased-0.9.7\src\as_uncased.rs:

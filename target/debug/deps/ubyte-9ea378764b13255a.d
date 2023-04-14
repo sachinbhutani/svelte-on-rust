@@ -1,0 +1,11 @@
+c:\projects\svelte-on-rust\target\debug\deps\ubyte-9ea378764b13255a.rmeta: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\arithmetic.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\byte_unit.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\parse.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\ser_de.rs
+
+c:\projects\svelte-on-rust\target\debug\deps\libubyte-9ea378764b13255a.rlib: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\arithmetic.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\byte_unit.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\parse.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\ser_de.rs
+
+c:\projects\svelte-on-rust\target\debug\deps\ubyte-9ea378764b13255a.d: C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\lib.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\arithmetic.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\byte_unit.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\parse.rs C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\ser_de.rs
+
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\lib.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\arithmetic.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\byte_unit.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\parse.rs:
+C:\Users\sachi.SACHINPC\.cargo\registry\src\github.com-1ecc6299db9ec823\ubyte-0.10.3\src\ser_de.rs:
